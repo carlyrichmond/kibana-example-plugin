@@ -1,0 +1,17 @@
+{
+  "id": "kibanaExamplePlugin",
+  "version": "1.0.0",
+  "kibanaVersion": "kibana",
+  "owner": {
+    "name": "Carly Richmond",
+    "githubTeam": "carlyrichmond"
+  },
+  "description": "My Example Kibana Plugin",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": [
+    "navigation",
+    "data",
+    "unifiedSearch"
+  ]
+}

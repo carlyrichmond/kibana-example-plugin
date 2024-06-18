@@ -1,0 +1,7 @@
+{
+  "prefix": "kibanaExamplePlugin",
+  "paths": {
+    "kibanaExamplePlugin": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
